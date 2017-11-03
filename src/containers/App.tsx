@@ -3,10 +3,11 @@ import { connect } from 'react-redux';
 //import * as Action from '../actions';
 import App from '../components/App';
 
-const mapStateToProps = (state:any) => ({
+const mapStateToProps = (state: Object) : Object => ({
+
 })
 
-const mapToDispatchProps = (dispatch:any) => ({
+const mapToDispatchProps = (dispatch: Function) => ({
 
 })
 
